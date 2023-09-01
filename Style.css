@@ -6,7 +6,7 @@
 
 header {
     width: 100%;
-    background: lightgray;
+    background: rgb(170, 160, 160);
     padding: 1rem;
 }
 
@@ -27,7 +27,7 @@ nav {
 }
 
 nav ul {
-    color: black;
+    color: rgb(152, 51, 51);
     list-style: none;
     display: flex;
     padding: 0 2rem;
